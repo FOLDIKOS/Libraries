@@ -44,7 +44,7 @@
 
 LIBRARY({
     name: "RecipeTileEntityLib",
-    version: 21,
+    version: 2.1,
     api: "CoreEngine",
     shared:true
 });
